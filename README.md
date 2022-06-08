@@ -6,3 +6,5 @@ Steps to perform various operations.Links also be there.check it out.......
 **2)sorting dataframe >>>>>>>>> link=https://www.geeksforgeeks.org/how-to-sort-pandas-dataframe/**
 
 **3)concatinate two or more dataframes  >>>>>>>> link=https://www.geeksforgeeks.org/how-to-combine-two-dataframe-in-python-pandas/**
+
+**4)update values in column of dataframe  >>>>>>>> link=https://www.geeksforgeeks.org/how-to-replace-values-in-column-based-on-condition-in-pandas/** 
