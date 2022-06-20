@@ -47,4 +47,4 @@ Steps to perform various operations.Links also be there.check it out.......
 
 18)df.memory_usage()
 
-**Seaborn colour styles**         link=https://www.codecademy.com/article/seaborn-design-ii
+**6)Seaborn colour styles**         link=https://www.codecademy.com/article/seaborn-design-ii
