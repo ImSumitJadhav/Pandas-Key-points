@@ -46,3 +46,5 @@ Steps to perform various operations.Links also be there.check it out.......
 17)df["column name"].unique()   **<<<<<<<<< obtain unique values in that column**
 
 18)df.memory_usage()
+
+**Seaborn colour styles**         link=https://www.codecademy.com/article/seaborn-design-ii
