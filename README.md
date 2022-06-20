@@ -48,3 +48,6 @@ Steps to perform various operations.Links also be there.check it out.......
 18)df.memory_usage()
 
 **6)Seaborn colour styles**         link=https://www.codecademy.com/article/seaborn-design-ii
+
+![image](https://user-images.githubusercontent.com/104813887/174535659-e526be73-2b95-4219-86fb-4a3628095429.png)
+
